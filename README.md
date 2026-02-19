@@ -1,2 +1,5 @@
-# Ecommerce-Analysis
-A project analyzing Ecommerce Data and user behavior
+# Ecommerce Analysis
+This project is based on the Ecommerce cosmetic event history dataset [here](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?resource=download). The purpose of this project is to analyze the event history for these products and to hopefully make meaningful conclusions as to make recommendations.  
+
+# Data Cleaning
+The first step includes data cleaning and validation before we can do any analysis.  
